@@ -1,7 +1,7 @@
 What is the hardest question? please explain 
 
 - Why it is hard
-I think Q2 Because I'm not sure of the calculation and need to do my hand count to check, if it's correct.
+I think Q3 Because I'm not sure of the calculation and need to do my hand count to check, if it's correct.
 
 - What kind of solution that you solve it
 I find the iteration, replace the stairs with n and the number of steps is 1 and 2, then add values to summary​.
